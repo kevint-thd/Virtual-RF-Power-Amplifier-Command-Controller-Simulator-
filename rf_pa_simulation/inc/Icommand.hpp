@@ -10,7 +10,7 @@ public:
     virtual std::string execute() const = 0;
     //virtual → supports polymorphism //= 0 → pure virtual → must override
 //const → this function does NOT modify object
-
+// hello
 
 };
 }
